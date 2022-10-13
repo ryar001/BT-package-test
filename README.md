@@ -1,2 +1,2 @@
-Backtest with order manage for event testing
+Backtest engine with order manager for event-driven testing
 
