@@ -1,2 +1,2 @@
-test out a dip buying strategy on the spy
+Backtest with order manage for event testing
 
